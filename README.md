@@ -21,7 +21,7 @@ This is an post-book app using which the user can add new post and publish the a
 - uuid
 
 ### Screen Shots
-<img src="images/home-page.png"/>
+<img src="images/home-page.PNG"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
