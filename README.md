@@ -21,7 +21,40 @@ This is an post-book app using which the user can add new post and publish the a
 - uuid
 
 ### Screen Shots
-<img src="images/home-page.PNG"/>
+
+![alt text](../main/src/images/home-page.png)
+
+This is the home page.
+
+
+![alt text](../main/src/images/post-form.png)
+
+This is the Form for adding the post.
+
+
+![alt text](../main/src/images/form-validations.png)
+
+Form Validations
+
+![alt text](../main/src/images/form-input.png)
+
+Filling the form fields.
+
+![alt text](../main/src/images/first-article.png)
+
+Displaying the first article added.
+
+![alt text](../main/src/images/search-functionality.png)
+
+Displaying the search functionality.
+
+![alt text](../main/src/images/scroll1.png)
+![alt text](../main/src/images/scroll2.png)
+![alt text](../main/src/images/scroll3.png)
+
+Scrolling feature.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
