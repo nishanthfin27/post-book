@@ -1,5 +1,28 @@
 # An App to publish articles...
 
+
+### Overview
+This is an post-book app using which the user can add new post and publish the articles.
+
+
+### Features
+- User can add a post which has title and content.
+- User can search the post based on title name or content as well.
+- Maintined the State using redux library.
+- Performed form validations to ensure user doesn't send empty title or content in an post.
+- User can view multiple articles by scrolling the list.
+
+### Dependencies
+- react
+- redux
+- react-redux
+- Markdown Editor
+- Styled Components
+- uuid
+
+### Screen Shots
+<img src="images/home-page.png"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
